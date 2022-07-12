@@ -8,24 +8,22 @@
   </a>
 </p>
 
-### Security Summer School is a security workshop held by people passionate about security, professors, PhD, MSci, BSc students from University POLITEHNICA of Bucharest and industry partners Ixia, a Keysight Business.
-
+**Security Summer School is a security workshop held by people passionate about security, professors, PhD, MSci, BSc students from University POLITEHNICA of Bucharest and industry partners Keysight Technologies Romania, GRX and Pentest Tools.**
 
 ## Projects
 
 ### :bulb: Learn the most known vulnerabilities
 
-From zero-to-hero the four week event holds lessons and workshops two or three times a week on vulnerabilities and how to identify and get advantage from them.
+**From zero to hero:** the four-week event holds lessons and workshops two or three times a week on vulnerabilities and how to identify and take advantage of them.
 
 ### :mag_right: Hands-on learning
 
-At the end of each presentation, you will have to solve problems, practicing the presented vulnerabilities.
+At the end of each presentation, you will have to solve challenges showcasing the presented vulnerabilities.
 These will run as a CTF where you should find the flag and demonstrate your power.
 
-### :trophy: CTF & Prizes!
+### :trophy: CTFs
 
 Two CTFs will be organized, one in the middle of the summer school and the other at the end of it.
-Those who get involved will also receive prizes.
 
 ## Tracks
 
@@ -35,11 +33,13 @@ Perfect for the ones who want to step into security fundamentals.
 
 ### :rocket: Web Security
 
-Web is already everywhere. Start before it’s too late.
+Web is already everywhere.
+Start before it’s too late.
 
 ### :key: Binary Security
 
-Do you want to break all things in a binary? This is the place.
+Do you want to break all things in a binary?
+This is the place.
 
 ## Community  
 
@@ -58,7 +58,7 @@ Using or want to use Security Summer School? Find out more here:
 
 ### Develop and Contribute
 
-If you want to get more involved by contributing to Security Summer School, join us here:
+If you want to contribute to Security Summer School, join us here:
 
 - [Github](https://github.com/security-summer-school): Development takes place here!
 
