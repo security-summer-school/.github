@@ -33,7 +33,7 @@ Perfect for the ones who want to step into security fundamentals.
 
 ### :rocket: Web Security
 
-Web is already everywhere.
+The Web is already everywhere.
 Start before it’s too late.
 
 ### :key: Binary Security
@@ -58,8 +58,6 @@ Using or want to use Security Summer School? Find out more here:
 
 ### Develop and Contribute
 
-If you want to contribute to Security Summer School, join us here:
-
-- [Github](https://github.com/security-summer-school): Development takes place here!
+If you want to contribute to Security Summer School, join us on [Github](https://github.com/security-summer-school): development takes place here!
 
 You can find out how to contribute to these docs in our [Contribution Guidelines](https://security-summer-school.github.io/docs/contribution-guidelines/).
